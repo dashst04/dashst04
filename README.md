@@ -49,7 +49,7 @@
 ### 📬 Контакты
 
 - 📧 Email: dashst.04@gmail.com
-- 💬 Telegram: [@DashSt04]([https://t.me/DashSt04])
+- 💬 Telegram: [@DashSt04](https://t.me/DashSt04)
 - 💼 LinkedIn: [Darya Stogniyeva](https://linkedin.com/in/darya-stogniyeva-a16614437/)
 - 🐙 GitHub: [dashst04](https://github.com/dashst04)
 
